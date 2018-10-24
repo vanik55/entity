@@ -1,9 +1,7 @@
 {
     "name": "vanik55/entity",
     "description": "Knihovna entit ...",
-    "minimum-stability": "stable",
     "type": "library",
-    "license": "proprietary",
     "require": {
         "php": "^7.1.3"
     },
