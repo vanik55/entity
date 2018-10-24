@@ -5,7 +5,10 @@
     "type": "library",
     "license": "proprietary",
     "require": {
-        "php": "^7.1.3",
+        "php": "^7.1.3"
+    },
+    "require-dev": {
+        "symfony/dotenv": "*",
         "ext-ctype": "*",
         "ext-iconv": "*",
         "symfony/console": "*",
@@ -13,9 +16,6 @@
         "symfony/framework-bundle": "*",
         "symfony/orm-pack": "^1.0",
         "symfony/yaml": "*"
-    },
-    "require-dev": {
-        "symfony/dotenv": "*"
     },
     "config": {
         "preferred-install": {
